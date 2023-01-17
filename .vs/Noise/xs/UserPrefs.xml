@@ -1,0 +1,59 @@
+﻿<Properties StartupConfiguration="{11F08F2C-252F-4172-C9DF-ECA2459DC947}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Textures/Generators/TextureGenerator.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Editor/TextureGeneratorEditor.cs" Line="59" Column="60" />
+      <File FileName="Assets/Scripts/Textures/Generators/TextureGenerator.cs" Line="65" Column="46" />
+      <File FileName="Assets/Scripts/Noise/Generators/NoiseGenerator.cs" Line="28" Column="9" />
+      <File FileName="Assets/Scripts/Noise/Types/PerlinNoise/PerlinNoise.cs" />
+      <File FileName="Assets/Scripts/Noise/Types/WorleyNoise/WorleyNoise.cs" Line="26" Column="1" />
+      <File FileName="Assets/Scripts/Noise/Types/WorleyNoise/TypeInfo/WorleyNoiseDimension.cs" />
+      <File FileName="Assets/Scripts/Noise/Types/RandomNoise/RandomNoise.cs" Line="8" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Noise" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Editor" expanded="True" />
+                <Node name="Noise" expanded="True">
+                  <Node name="Generators" expanded="True" />
+                  <Node name="Types" expanded="True">
+                    <Node name="FractalNoise" expanded="True">
+                      <Node name="TypeInfo" expanded="True" />
+                    </Node>
+                    <Node name="LatticeNoise" expanded="True">
+                      <Node name="TypeInfo" expanded="True" />
+                    </Node>
+                    <Node name="PerlinNoise" expanded="True">
+                      <Node name="TypeInfo" expanded="True" />
+                    </Node>
+                    <Node name="RandomNoise" expanded="True" />
+                    <Node name="ValueNoise" expanded="True">
+                      <Node name="TypeInfo" expanded="True" />
+                    </Node>
+                    <Node name="WorleyNoise" expanded="True">
+                      <Node name="TypeInfo" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+                <Node name="Textures" expanded="True">
+                  <Node name="Generators" expanded="True">
+                    <Node name="TextureGenerator.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0adabeca-4c91-4f26-a7bb-e33e285deac3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
